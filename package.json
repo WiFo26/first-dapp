@@ -1,0 +1,23 @@
+{
+  "name": "firstdapp",
+  "version": "1.0.0",
+  "description": "This is the first project related to blockchain and web3 to get involved with the basic concepts.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WiFo26/first-dapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WiFo26/first-dapp/issues"
+  },
+  "homepage": "https://github.com/WiFo26/first-dapp#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
